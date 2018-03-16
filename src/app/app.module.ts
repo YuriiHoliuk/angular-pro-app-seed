@@ -30,3 +30,15 @@ export const ROUTES: Routes = [];
   ]
 })
 export class AppModule {}
+
+/*
+var config = {
+  apiKey: "AIzaSyAhkE71poNjGkNZzxnM1NeKKEDNVEcBtbU",
+  authDomain: "angular-pro-course-app.firebaseapp.com",
+  databaseURL: "https://angular-pro-course-app.firebaseio.com",
+  projectId: "angular-pro-course-app",
+  storageBucket: "angular-pro-course-app.appspot.com",
+  messagingSenderId: "306401491714"
+};
+firebase.initializeApp(config);
+* */
